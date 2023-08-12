@@ -6,7 +6,11 @@ git add .
 git add  fileName
 
 git diff script.js  --- difference between working and staging 
-git commit -m "added" 
+git commit -m "added"
+
+git clone https://github.com/Minskoleopc/JulyA.git
+
+
 
 
 
