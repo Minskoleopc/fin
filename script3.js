@@ -1,1 +1,13 @@
 console.log("file 3")
+
+console.log("hello change 1")
+console.log("hello change 2")
+console.log("hello change 3")
+console.log("hello change 4")
+console.log("hello change 5")
+console.log("hello change 6")
+console.log("hello change 7")
+console.log("hello change 8")
+console.log("hello change 9")
+console.log("hello change 10")
+console.log("hello  from branch A")
