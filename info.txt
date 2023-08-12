@@ -9,6 +9,8 @@ git diff script.js  --- difference between working and staging
 git commit -m "added"
 
 git clone https://github.com/Minskoleopc/JulyA.git
+git log  - to view all the commits 
+git show HEAD
 
 
 
