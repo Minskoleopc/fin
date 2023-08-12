@@ -7,13 +7,15 @@ git add  fileName
 
 git diff script.js  --- difference between working and staging 
 git commit -m "added"
+git reset   18a507e4
 
 git clone https://github.com/Minskoleopc/JulyA.git
 git log  - to view all the commits 
 git show HEAD
 
-
 git checkout HEAD fileName -- to make working directory similar to last commit(local repo)
+git reset HEAD fileName - to make staging similar to local repo last commit
+
 
 
 
