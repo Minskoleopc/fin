@@ -13,6 +13,9 @@ git log  - to view all the commits
 git show HEAD
 
 
+git checkout HEAD fileName -- to make working directory similar to last commit(local repo)
+
+
 
 
 
