@@ -16,6 +16,10 @@ git show HEAD
 git checkout HEAD fileName -- to make working directory similar to last commit(local repo)
 git reset HEAD fileName - to make staging similar to local repo last commit
 
+git branch
+git branch A
+git checkout A
+
 
 
 
