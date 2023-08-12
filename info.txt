@@ -1,10 +1,14 @@
 working directory --------> staging ------ local repo ----- remote repo
-
-
 git init 
 git status 
 
 git add .
 git add  fileName
+
+git diff script.js  --- difference between working and staging 
+git commit -m "added" 
+
+
+
 
 
